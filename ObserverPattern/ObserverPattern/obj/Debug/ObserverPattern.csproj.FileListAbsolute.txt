@@ -1,0 +1,9 @@
+C:\Projects\Patterns\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Projects\Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.frmObserverPattern.resources
+C:\Projects\Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.Properties.Resources.resources
+C:\Projects\Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.GenerateResource.Cache
+C:\Projects\Patterns\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Projects\Patterns\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Projects\Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Projects\Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
+C:\Projects\Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache

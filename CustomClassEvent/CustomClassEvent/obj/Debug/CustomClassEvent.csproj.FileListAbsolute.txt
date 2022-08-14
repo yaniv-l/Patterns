@@ -1,0 +1,8 @@
+C:\Projects\Patterns\CustomClassEvent\CustomClassEvent\bin\Debug\CustomClassEvent.exe.config
+C:\Projects\Patterns\CustomClassEvent\CustomClassEvent\bin\Debug\CustomClassEvent.exe
+C:\Projects\Patterns\CustomClassEvent\CustomClassEvent\bin\Debug\CustomClassEvent.pdb
+C:\Projects\Patterns\CustomClassEvent\CustomClassEvent\obj\Debug\CustomClassEvent.Properties.Resources.resources
+C:\Projects\Patterns\CustomClassEvent\CustomClassEvent\obj\Debug\CustomClassEvent.csproj.GenerateResource.Cache
+C:\Projects\Patterns\CustomClassEvent\CustomClassEvent\obj\Debug\CustomClassEvent.exe
+C:\Projects\Patterns\CustomClassEvent\CustomClassEvent\obj\Debug\CustomClassEvent.pdb
+C:\Projects\Patterns\CustomClassEvent\CustomClassEvent\obj\Debug\CustomClassEvent.Form1.resources
